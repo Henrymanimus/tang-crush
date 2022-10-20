@@ -1,18 +1,15 @@
 const CONFIG = {
-    introTitle: 'Bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao bạn cứ đi nhầm đường
-    Tiền có 300 ngàn
-    Mà bạn cứ giấu hoài lan man`,
+    introTitle: 'Ngọc Ú à!',
+    introDesc: `Source web lấy trên mạng để có cái đú trend tặng Ngọc :)))))`,
     btnIntro: 'hihi',
-    title: 'Phải chăng bạn đã quên công ơn mình 😙',
-    desc: 'Phải chăng bạn đã giải vờ ngây ngô ',
-    btnYes: 'đồng ý trả nợ',
+    title: 'Iu Ngọc',
+    desc: 'Ngọc iu a ko, iu thì cho a 2 tỷ mua nhà nhé ',
+    btnYes: 'đồng ý',
     btnNo: 'Không, tao nghèo rồi',
-    question:'Thế là đồng ý trả hả, ôi tôi vui quá bạn ơi',
+    question:'ỏoooooooo',
     btnReply: 'Gửi số tài khoản',
-    reply: 'Bắn số tài khoản đây, t chịu thua m rồi',
-    mess: 'Tôi biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    reply: 'Anh iu, e đồng ý cho a 2 tỷ mua nhà gòi nhé',
+    mess: '🥰. Yêu ú nhiều nhiều 😘😘',
     messDesc: 'Bắn ngay nhé',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/somthinuseful/' //link mess của các bạn. VD: https://m.me/nam.nodemy
